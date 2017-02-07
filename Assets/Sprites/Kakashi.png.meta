@@ -1,0 +1,7857 @@
+fileFormatVersion: 2
+guid: f6498e06a76078d48b0c59400f9b5207
+timeCreated: 1486247835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kakashi_0
+    21300002: Kakashi_1
+    21300004: Kakashi_2
+    21300006: Kakashi_3
+    21300008: Kakashi_4
+    21300010: Kakashi_5
+    21300012: Kakashi_6
+    21300014: Kakashi_7
+    21300016: Kakashi_8
+    21300018: Kakashi_9
+    21300020: Kakashi_10
+    21300022: Kakashi_11
+    21300024: Kakashi_12
+    21300026: Kakashi_13
+    21300028: Kakashi_14
+    21300030: Kakashi_15
+    21300032: Kakashi_16
+    21300034: Kakashi_17
+    21300036: Kakashi_18
+    21300038: Kakashi_19
+    21300040: Kakashi_20
+    21300042: Kakashi_21
+    21300044: Kakashi_22
+    21300046: Kakashi_23
+    21300048: Kakashi_24
+    21300050: Kakashi_25
+    21300052: Kakashi_26
+    21300054: Kakashi_27
+    21300056: Kakashi_28
+    21300058: Kakashi_29
+    21300060: Kakashi_30
+    21300062: Kakashi_31
+    21300064: Kakashi_32
+    21300066: Kakashi_33
+    21300068: Kakashi_34
+    21300070: Kakashi_35
+    21300072: Kakashi_36
+    21300074: Kakashi_37
+    21300076: Kakashi_38
+    21300078: Kakashi_39
+    21300080: Kakashi_40
+    21300082: Kakashi_41
+    21300084: Kakashi_42
+    21300086: Kakashi_43
+    21300088: Kakashi_44
+    21300090: Kakashi_45
+    21300092: Kakashi_46
+    21300094: Kakashi_47
+    21300096: Kakashi_48
+    21300098: Kakashi_49
+    21300100: Kakashi_50
+    21300102: Kakashi_51
+    21300104: Kakashi_52
+    21300106: Kakashi_53
+    21300108: Kakashi_54
+    21300110: Kakashi_55
+    21300112: Kakashi_56
+    21300114: Kakashi_57
+    21300116: Kakashi_58
+    21300118: Kakashi_59
+    21300120: Kakashi_60
+    21300122: Kakashi_61
+    21300124: Kakashi_62
+    21300126: Kakashi_63
+    21300128: Kakashi_64
+    21300130: Kakashi_65
+    21300132: Kakashi_66
+    21300134: Kakashi_67
+    21300136: Kakashi_68
+    21300138: Kakashi_69
+    21300140: Kakashi_70
+    21300142: Kakashi_71
+    21300144: Kakashi_72
+    21300146: Kakashi_73
+    21300148: Kakashi_74
+    21300150: Kakashi_75
+    21300152: Kakashi_76
+    21300154: Kakashi_77
+    21300156: Kakashi_78
+    21300158: Kakashi_79
+    21300160: Kakashi_80
+    21300162: Kakashi_81
+    21300164: Kakashi_82
+    21300166: Kakashi_83
+    21300168: Kakashi_84
+    21300170: Kakashi_85
+    21300172: Kakashi_86
+    21300174: Kakashi_87
+    21300176: Kakashi_88
+    21300178: Kakashi_89
+    21300180: Kakashi_90
+    21300182: Kakashi_91
+    21300184: Kakashi_92
+    21300186: Kakashi_93
+    21300188: Kakashi_94
+    21300190: Kakashi_95
+    21300192: Kakashi_96
+    21300194: Kakashi_97
+    21300196: Kakashi_98
+    21300198: Kakashi_99
+    21300200: Kakashi_100
+    21300202: Kakashi_101
+    21300204: Kakashi_102
+    21300206: Kakashi_103
+    21300208: Kakashi_104
+    21300210: Kakashi_105
+    21300212: Kakashi_106
+    21300214: Kakashi_107
+    21300216: Kakashi_108
+    21300218: Kakashi_109
+    21300220: Kakashi_110
+    21300222: Kakashi_111
+    21300224: Kakashi_112
+    21300226: Kakashi_113
+    21300228: Kakashi_114
+    21300230: Kakashi_115
+    21300232: Kakashi_116
+    21300234: Kakashi_117
+    21300236: Kakashi_118
+    21300238: Kakashi_119
+    21300240: Kakashi_120
+    21300242: Kakashi_121
+    21300244: Kakashi_122
+    21300246: Kakashi_123
+    21300248: Kakashi_124
+    21300250: Kakashi_125
+    21300252: Kakashi_126
+    21300254: Kakashi_127
+    21300256: Kakashi_128
+    21300258: Kakashi_129
+    21300260: Kakashi_130
+    21300262: Kakashi_131
+    21300264: Kakashi_132
+    21300266: Kakashi_133
+    21300268: Kakashi_134
+    21300270: Kakashi_135
+    21300272: Kakashi_136
+    21300274: Kakashi_137
+    21300276: Kakashi_138
+    21300278: Kakashi_139
+    21300280: Kakashi_140
+    21300282: Kakashi_141
+    21300284: Kakashi_142
+    21300286: Kakashi_143
+    21300288: Kakashi_144
+    21300290: Kakashi_145
+    21300292: Kakashi_146
+    21300294: Kakashi_147
+    21300296: Kakashi_148
+    21300298: Kakashi_149
+    21300300: Kakashi_150
+    21300302: Kakashi_151
+    21300304: Kakashi_152
+    21300306: Kakashi_153
+    21300308: Kakashi_154
+    21300310: Kakashi_155
+    21300312: Kakashi_156
+    21300314: Kakashi_157
+    21300316: Kakashi_158
+    21300318: Kakashi_159
+    21300320: Kakashi_160
+    21300322: Kakashi_161
+    21300324: Kakashi_162
+    21300326: Kakashi_163
+    21300328: Kakashi_164
+    21300330: Kakashi_165
+    21300332: Kakashi_166
+    21300334: Kakashi_167
+    21300336: Kakashi_168
+    21300338: Kakashi_169
+    21300340: Kakashi_170
+    21300342: Kakashi_171
+    21300344: Kakashi_172
+    21300346: Kakashi_173
+    21300348: Kakashi_174
+    21300350: Kakashi_175
+    21300352: Kakashi_176
+    21300354: Kakashi_177
+    21300356: Kakashi_178
+    21300358: Kakashi_179
+    21300360: Kakashi_180
+    21300362: Kakashi_181
+    21300364: Kakashi_182
+    21300366: Kakashi_183
+    21300368: Kakashi_184
+    21300370: Kakashi_185
+    21300372: Kakashi_186
+    21300374: Kakashi_187
+    21300376: Kakashi_188
+    21300378: Kakashi_189
+    21300380: Kakashi_190
+    21300382: Kakashi_191
+    21300384: Kakashi_192
+    21300386: Kakashi_193
+    21300388: Kakashi_194
+    21300390: Kakashi_195
+    21300392: Kakashi_196
+    21300394: Kakashi_197
+    21300396: Kakashi_198
+    21300398: Kakashi_199
+    21300400: Kakashi_200
+    21300402: Kakashi_201
+    21300404: Kakashi_202
+    21300406: Kakashi_203
+    21300408: Kakashi_204
+    21300410: Kakashi_205
+    21300412: Kakashi_206
+    21300414: Kakashi_207
+    21300416: Kakashi_208
+    21300418: Kakashi_209
+    21300420: Kakashi_210
+    21300422: Kakashi_211
+    21300424: Kakashi_212
+    21300426: Kakashi_213
+    21300428: Kakashi_214
+    21300430: Kakashi_215
+    21300432: Kakashi_216
+    21300434: Kakashi_217
+    21300436: Kakashi_218
+    21300438: Kakashi_219
+    21300440: Kakashi_220
+    21300442: Kakashi_221
+    21300444: Kakashi_222
+    21300446: Kakashi_223
+    21300448: Kakashi_224
+    21300450: Kakashi_225
+    21300452: Kakashi_226
+    21300454: Kakashi_227
+    21300456: Kakashi_228
+    21300458: Kakashi_229
+    21300460: Kakashi_230
+    21300462: Kakashi_231
+    21300464: Kakashi_232
+    21300466: Kakashi_233
+    21300468: Kakashi_234
+    21300470: Kakashi_235
+    21300472: Kakashi_236
+    21300474: Kakashi_237
+    21300476: Kakashi_238
+    21300478: Kakashi_239
+    21300480: Kakashi_240
+    21300482: Kakashi_241
+    21300484: Kakashi_242
+    21300486: Kakashi_243
+    21300488: Kakashi_244
+    21300490: Kakashi_245
+    21300492: Kakashi_246
+    21300494: Kakashi_247
+    21300496: Kakashi_248
+    21300498: Kakashi_249
+    21300500: Kakashi_250
+    21300502: Kakashi_251
+    21300504: Kakashi_252
+    21300506: Kakashi_253
+    21300508: Kakashi_254
+    21300510: Kakashi_255
+    21300512: Kakashi_256
+    21300514: Kakashi_257
+    21300516: Kakashi_258
+    21300518: Kakashi_259
+    21300520: Kakashi_260
+    21300522: Kakashi_261
+    21300524: Kakashi_262
+    21300526: Kakashi_263
+    21300528: Kakashi_264
+    21300530: Kakashi_265
+    21300532: Kakashi_266
+    21300534: Kakashi_267
+    21300536: Kakashi_268
+    21300538: Kakashi_269
+    21300540: Kakashi_270
+    21300542: Kakashi_271
+    21300544: Kakashi_272
+    21300546: Kakashi_273
+    21300548: Kakashi_274
+    21300550: Kakashi_275
+    21300552: Kakashi_276
+    21300554: Kakashi_277
+    21300556: Kakashi_278
+    21300558: Kakashi_279
+    21300560: Kakashi_280
+    21300562: Kakashi_281
+    21300564: Kakashi_282
+    21300566: Kakashi_283
+    21300568: Kakashi_284
+    21300570: Kakashi_285
+    21300572: Kakashi_286
+    21300574: Kakashi_287
+    21300576: Kakashi_288
+    21300578: Kakashi_289
+    21300580: Kakashi_290
+    21300582: Kakashi_291
+    21300584: Kakashi_292
+    21300586: Kakashi_293
+    21300588: Kakashi_294
+    21300590: Kakashi_295
+    21300592: Kakashi_296
+    21300594: Kakashi_297
+    21300596: Kakashi_298
+    21300598: Kakashi_299
+    21300600: Kakashi_300
+    21300602: Kakashi_301
+    21300604: Kakashi_302
+    21300606: Kakashi_303
+    21300608: Kakashi_304
+    21300610: Kakashi_305
+    21300612: Kakashi_306
+    21300614: Kakashi_307
+    21300616: Kakashi_308
+    21300618: Kakashi_309
+    21300620: Kakashi_310
+    21300622: Kakashi_311
+    21300624: Kakashi_312
+    21300626: Kakashi_313
+    21300628: Kakashi_314
+    21300630: Kakashi_315
+    21300632: Kakashi_316
+    21300634: Kakashi_317
+    21300636: Kakashi_318
+    21300638: Kakashi_319
+    21300640: Kakashi_320
+    21300642: Kakashi_321
+    21300644: Kakashi_322
+    21300646: Kakashi_323
+    21300648: Kakashi_324
+    21300650: Kakashi_325
+    21300652: Kakashi_326
+    21300654: Kakashi_327
+    21300656: Kakashi_328
+    21300658: Kakashi_329
+    21300660: Kakashi_330
+    21300662: Kakashi_331
+    21300664: Kakashi_332
+    21300666: Kakashi_333
+    21300668: Kakashi_334
+    21300670: Kakashi_335
+    21300672: Kakashi_336
+    21300674: Kakashi_337
+    21300676: Kakashi_338
+    21300678: Kakashi_339
+    21300680: Kakashi_340
+    21300682: Kakashi_341
+    21300684: Kakashi_342
+    21300686: Kakashi_343
+    21300688: Kakashi_344
+    21300690: Kakashi_345
+    21300692: Kakashi_346
+    21300694: Kakashi_347
+    21300696: Kakashi_348
+    21300698: Kakashi_349
+    21300700: Kakashi_350
+    21300702: Kakashi_351
+    21300704: Kakashi_352
+    21300706: Kakashi_353
+    21300708: Kakashi_354
+    21300710: Kakashi_355
+    21300712: Kakashi_356
+    21300714: Kakashi_357
+    21300716: Kakashi_358
+    21300718: Kakashi_359
+    21300720: Kakashi_360
+    21300722: Kakashi_361
+    21300724: Kakashi_362
+    21300726: Kakashi_363
+    21300728: Kakashi_364
+    21300730: Kakashi_365
+    21300732: Kakashi_366
+    21300734: Kakashi_367
+    21300736: Kakashi_368
+    21300738: Kakashi_369
+    21300740: Kakashi_370
+    21300742: Kakashi_371
+    21300744: Kakashi_372
+    21300746: Kakashi_373
+    21300748: Kakashi_374
+    21300750: Kakashi_375
+    21300752: Kakashi_376
+    21300754: Kakashi_377
+    21300756: Kakashi_378
+    21300758: Kakashi_379
+    21300760: Kakashi_380
+    21300762: Kakashi_381
+    21300764: Kakashi_382
+    21300766: Kakashi_383
+    21300768: Kakashi_384
+    21300770: Kakashi_385
+    21300772: Kakashi_386
+    21300774: Kakashi_387
+    21300776: Kakashi_388
+    21300778: Kakashi_389
+    21300780: Kakashi_390
+    21300782: Kakashi_391
+    21300784: Kakashi_392
+    21300786: Kakashi_393
+    21300788: Kakashi_394
+    21300790: Kakashi_395
+    21300792: Kakashi_396
+    21300794: Kakashi_397
+    21300796: Kakashi_398
+    21300798: Kakashi_399
+    21300800: Kakashi_400
+    21300802: Kakashi_401
+    21300804: Kakashi_402
+    21300806: Kakashi_403
+    21300808: Kakashi_404
+    21300810: Kakashi_405
+    21300812: Kakashi_406
+    21300814: Kakashi_407
+    21300816: Kakashi_408
+    21300818: Kakashi_409
+    21300820: Kakashi_410
+    21300822: Kakashi_411
+    21300824: Kakashi_412
+    21300826: Kakashi_413
+    21300828: Kakashi_414
+    21300830: Kakashi_415
+    21300832: Kakashi_416
+    21300834: Kakashi_417
+    21300836: Kakashi_418
+    21300838: Kakashi_419
+    21300840: Kakashi_420
+    21300842: Kakashi_421
+    21300844: Kakashi_422
+    21300846: Kakashi_423
+    21300848: Kakashi_424
+    21300850: Kakashi_425
+    21300852: Kakashi_426
+    21300854: Kakashi_427
+    21300856: Kakashi_428
+    21300858: Kakashi_429
+    21300860: Kakashi_430
+    21300862: Kakashi_431
+    21300864: Kakashi_432
+    21300866: Kakashi_433
+    21300868: Kakashi_434
+    21300870: Kakashi_435
+    21300872: Kakashi_436
+    21300874: Kakashi_437
+    21300876: Kakashi_438
+    21300878: Kakashi_439
+    21300880: Kakashi_440
+    21300882: Kakashi_441
+    21300884: Kakashi_442
+    21300886: Kakashi_443
+    21300888: Kakashi_444
+    21300890: Kakashi_445
+    21300892: Kakashi_446
+    21300894: Kakashi_447
+    21300896: Kakashi_448
+    21300898: Kakashi_449
+    21300900: Kakashi_450
+    21300902: Kakashi_451
+    21300904: Kakashi_452
+    21300906: Kakashi_453
+    21300908: Kakashi_454
+    21300910: Kakashi_455
+    21300912: Kakashi_456
+    21300914: Kakashi_457
+    21300916: Kakashi_458
+    21300918: Kakashi_459
+    21300920: Kakashi_460
+    21300922: Kakashi_461
+    21300924: Kakashi_462
+    21300926: Kakashi_463
+    21300928: Kakashi_464
+    21300930: Kakashi_465
+    21300932: Kakashi_466
+    21300934: Kakashi_467
+    21300936: Kakashi_468
+    21300938: Kakashi_469
+    21300940: Kakashi_470
+    21300942: Kakashi_471
+    21300944: Kakashi_472
+    21300946: Kakashi_473
+    21300948: Kakashi_474
+    21300950: Kakashi_475
+    21300952: Kakashi_476
+    21300954: Kakashi_477
+    21300956: Kakashi_478
+    21300958: Kakashi_479
+    21300960: Kakashi_480
+    21300962: Kakashi_481
+    21300964: Kakashi_482
+    21300966: Kakashi_483
+    21300968: Kakashi_484
+    21300970: Kakashi_485
+    21300972: Kakashi_486
+    21300974: Kakashi_487
+    21300976: Kakashi_488
+    21300978: Kakashi_489
+    21300980: Kakashi_490
+    21300982: Kakashi_491
+    21300984: Kakashi_492
+    21300986: Kakashi_493
+    21300988: Kakashi_494
+    21300990: Kakashi_495
+    21300992: Kakashi_496
+    21300994: Kakashi_497
+    21300996: Kakashi_498
+    21300998: Kakashi_499
+    21301000: Kakashi_500
+    21301002: Kakashi_501
+    21301004: Kakashi_502
+    21301006: Kakashi_503
+    21301008: Kakashi_504
+    21301010: Kakashi_505
+    21301012: Kakashi_506
+    21301014: Kakashi_507
+    21301016: Kakashi_508
+    21301018: Kakashi_509
+    21301020: Kakashi_510
+    21301022: Kakashi_511
+    21301024: Kakashi_512
+    21301026: Kakashi_513
+    21301028: Kakashi_514
+    21301030: Kakashi_515
+    21301032: Kakashi_516
+    21301034: Kakashi_517
+    21301036: Kakashi_518
+    21301038: Kakashi_519
+    21301040: Kakashi_520
+    21301042: Kakashi_521
+    21301044: Kakashi_522
+    21301046: Kakashi_523
+    21301048: Kakashi_524
+    21301050: Kakashi_525
+    21301052: Kakashi_526
+    21301054: Kakashi_527
+    21301056: Kakashi_528
+    21301058: Kakashi_529
+    21301060: Kakashi_530
+    21301062: Kakashi_531
+    21301064: Kakashi_532
+    21301066: Kakashi_533
+    21301068: Kakashi_534
+    21301070: Kakashi_535
+    21301072: Kakashi_536
+    21301074: Kakashi_537
+    21301076: Kakashi_538
+    21301078: Kakashi_539
+    21301080: Kakashi_540
+    21301082: Kakashi_541
+    21301084: Kakashi_542
+    21301086: Kakashi_543
+    21301088: Kakashi_544
+    21301090: Kakashi_545
+    21301092: Kakashi_546
+    21301094: Kakashi_547
+    21301096: Kakashi_548
+    21301098: Kakashi_549
+    21301100: Kakashi_550
+    21301102: Kakashi_551
+    21301104: Kakashi_552
+    21301106: Kakashi_553
+    21301108: Kakashi_554
+    21301110: Kakashi_555
+    21301112: Kakashi_556
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kakashi_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5203
+        width: 93
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 4872
+        width: 370
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4959
+        width: 179
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5069
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5099
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5092
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5122
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4959
+        width: 194
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4959
+        width: 158
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4915
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4897
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4897
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4813
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4813
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4813
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4813
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4813
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4813
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 4813
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4813
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4813
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4813
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4813
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 4813
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4789
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4772
+        width: 94
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 4772
+        width: 85
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4688
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4688
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4688
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4685
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4685
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4685
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4685
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_34
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4685
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4685
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_36
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4685
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_37
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4685
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_38
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4685
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4660
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4642
+        width: 94
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_41
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4639
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4565
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4567
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4567
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4565
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4565
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 4565
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4565
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_49
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 4567
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_50
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 4567
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_51
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 4565
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_52
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4565
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_53
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4565
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4539
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4539
+        width: 117
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4521
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4521
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4521
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_59
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4521
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4445
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4442
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4445
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_63
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4442
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_64
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4442
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_65
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 4442
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4442
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4442
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_68
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 4445
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_69
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 4445
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_70
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4442
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_71
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 4442
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_72
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 4442
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_73
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4442
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_74
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 4445
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_75
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 4445
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4422
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_77
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4401
+        width: 92
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_78
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4402
+        width: 85
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_79
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4317
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4317
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4317
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_82
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4317
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_83
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 4307
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_84
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 4317
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_85
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 4317
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_86
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4317
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_87
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 4317
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_88
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 4307
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4281
+        width: 92
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_90
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 4279
+        width: 87
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4263
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_92
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4266
+        width: 85
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_93
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 4261
+        width: 93
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_94
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4261
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4184
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_96
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4184
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_97
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 4179
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4179
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_99
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4184
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_100
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4184
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_101
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 4179
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_102
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 4179
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_103
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 4179
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_104
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4179
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_105
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 4179
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_106
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 4179
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_107
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4148
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4128
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_109
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 4130
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4056
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_111
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4056
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4059
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_113
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4059
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_114
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 4056
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_115
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4059
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_116
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4056
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_117
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 4056
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_118
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 4059
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_119
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 4059
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_120
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 4056
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_121
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 4056
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_122
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4028
+        width: 102
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_123
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4008
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_124
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4008
+        width: 85
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_125
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3931
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_126
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3931
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_127
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3931
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_128
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3931
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_129
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3903
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_130
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3885
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_131
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3811
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3811
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3811
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_134
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3811
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_135
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3813
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_136
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3813
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_137
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3811
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_138
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3811
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_139
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3811
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_140
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3813
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_141
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3813
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_142
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3813
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_143
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3813
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_144
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3790
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3716
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_146
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3716
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_147
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3716
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_148
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3716
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3719
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_150
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3719
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_151
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3716
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_152
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3716
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_153
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3716
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_154
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3719
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_155
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3719
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_156
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3719
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_157
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3719
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_158
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3693
+        width: 118
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_159
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3678
+        width: 85
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_160
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3675
+        width: 92
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_161
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3583
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_162
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3583
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_163
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3583
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_164
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3583
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_165
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3583
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_166
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3583
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_167
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 3583
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_168
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3583
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_169
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3583
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_170
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3583
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_171
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3558
+        width: 129
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_172
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3539
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_173
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3540
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_174
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3466
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_175
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3466
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_176
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3466
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_177
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3466
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_178
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3466
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_179
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3466
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_180
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3466
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_181
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3466
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_182
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3466
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_183
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3466
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_184
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3466
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_185
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3438
+        width: 138
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_186
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3420
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_187
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3420
+        width: 84
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_188
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3338
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_189
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3338
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_191
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3338
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_192
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3343
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_193
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3338
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_194
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3338
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_195
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3338
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_196
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3338
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_197
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3343
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_198
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3315
+        width: 166
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_199
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3295
+        width: 94
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_200
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3297
+        width: 84
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_201
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3233
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_202
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3233
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3233
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_204
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3233
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_205
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3233
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_206
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3233
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_207
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3233
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_208
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3233
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_209
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3233
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_210
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3233
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_211
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3205
+        width: 133
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_212
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3205
+        width: 212
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_213
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3187
+        width: 94
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_214
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3187
+        width: 85
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_215
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3187
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_216
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3189
+        width: 85
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_217
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3108
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_218
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3108
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_219
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3108
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_220
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3108
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_221
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3108
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_222
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3108
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_223
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3108
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_224
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 3108
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_225
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3108
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_226
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3108
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_227
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3108
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_228
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 3108
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_229
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 3108
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_230
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 3108
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_231
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3082
+        width: 168
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_232
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3067
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_233
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3067
+        width: 94
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_234
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2982
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_235
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2985
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_236
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2985
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_237
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2985
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_238
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2982
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_239
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2985
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_240
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2987
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_241
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2985
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_242
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2985
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_243
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2952
+        width: 370
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_244
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2931
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_245
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2847
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_246
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2847
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_247
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2847
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_248
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2847
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_249
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2847
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_250
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2847
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_251
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2847
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_252
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2847
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_253
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2847
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_254
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2847
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_255
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2847
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_256
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2844
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_257
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2842
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_258
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2839
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_259
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2834
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_260
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2847
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_261
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2847
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_262
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2847
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_263
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2847
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_264
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2847
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_265
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2847
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_266
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2847
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_267
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2821
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_268
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2745
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_269
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2745
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_270
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2745
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_271
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2745
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_272
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2745
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_273
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2745
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_274
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2745
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_275
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2745
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_276
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2745
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_277
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2745
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_278
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2742
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_279
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2742
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_280
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2739
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_281
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2735
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_282
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2732
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_283
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2745
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_284
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2745
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_285
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2745
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_286
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2745
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_287
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2745
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_288
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2745
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_289
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2670
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_290
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2670
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_291
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2670
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_292
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2670
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_293
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2670
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_294
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2670
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_295
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2670
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_296
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2670
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_297
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2670
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_298
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2670
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_299
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2670
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_300
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2670
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_301
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2670
+        width: 74
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_302
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2670
+        width: 99
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_303
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2670
+        width: 102
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_304
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2676
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_305
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2676
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_306
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2681
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_307
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2642
+        width: 110
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_308
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2596
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_309
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2596
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_310
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2584
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_311
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2584
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_312
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2584
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_313
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2584
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_314
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2581
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_315
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2580
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_316
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_317
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2578
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_318
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2576
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_319
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2576
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_320
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2576
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_321
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2576
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_322
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2576
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_323
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2581
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_324
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2581
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_325
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2520
+        width: 86
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_326
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2520
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_327
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2514
+        width: 340
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_328
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2305
+        width: 261
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_329
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2305
+        width: 263
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_330
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2213
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_331
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2213
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_332
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2213
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_333
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2213
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_334
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2213
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_335
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2213
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_336
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2213
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_337
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2213
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_338
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2213
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_339
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2213
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_340
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2210
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_341
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2209
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_342
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2207
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_343
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2203
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_344
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2199
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_345
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2213
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_346
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2213
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_347
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2082
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_348
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2085
+        width: 133
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_349
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2151
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_350
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2153
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_351
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2093
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_352
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2089
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_353
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2090
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_354
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2106
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_355
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2103
+        width: 23
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_356
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2111
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_357
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2085
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_358
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2082
+        width: 146
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_359
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2085
+        width: 108
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_360
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2085
+        width: 118
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_361
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2106
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_362
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2018
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_363
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2018
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_364
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2018
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_365
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2026
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_366
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2021
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_367
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2021
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_368
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2021
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_369
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2021
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_370
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2016
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_371
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2021
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_372
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2021
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_373
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2016
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_374
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2016
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_375
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2016
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_376
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2011
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_377
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2011
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_378
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2011
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_379
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2003
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_380
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2003
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_381
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2003
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_382
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1916
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_383
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1909
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_384
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1911
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_385
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1909
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_386
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1920
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_387
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1919
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_388
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1921
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_389
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1922
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_390
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1845
+        width: 273
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_391
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1638
+        width: 263
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_392
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1638
+        width: 261
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_393
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1605
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_394
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1546
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_395
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1546
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_396
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1546
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_397
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1546
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_398
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1546
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_399
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1538
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_400
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1539
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_401
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1538
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_402
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1539
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_403
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1535
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_404
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1538
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_405
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1513
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_406
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1497
+        width: 732
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_407
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1418
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_408
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1419
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_409
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1418
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_410
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1418
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_411
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1425
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_412
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1425
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_413
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1425
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_414
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1425
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_415
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1425
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_416
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1425
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_417
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1346
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_418
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1346
+        width: 89
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_419
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1341
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_420
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1382
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_421
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1341
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_422
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1364
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_423
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1369
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_424
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1354
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_425
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1346
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_426
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1344
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_427
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1344
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_428
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1264
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_429
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1313
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_430
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1318
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_431
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1295
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_432
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1315
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_433
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1318
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_434
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1323
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_435
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1264
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_436
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1264
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_437
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1264
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_438
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1264
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_439
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1264
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_440
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1264
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_441
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1264
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_442
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1264
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_443
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1224
+        width: 189
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_444
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1201
+        width: 92
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_445
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1124
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_446
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1124
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_447
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1121
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_448
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1121
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_449
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1121
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_450
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1121
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_451
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1121
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_452
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1123
+        width: 99
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_453
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1124
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_454
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1124
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_455
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1123
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_456
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1124
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_457
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1124
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_458
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1039
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_459
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1039
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_460
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1042
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_461
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1042
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_462
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1042
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_463
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1042
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_464
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1042
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_465
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1042
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_466
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1042
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_467
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 968
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_468
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 999
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_469
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 968
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_470
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 998
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_471
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 968
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_472
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1001
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_473
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 968
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_474
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 968
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_475
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 968
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_476
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 940
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_477
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 858
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_478
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 858
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_479
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 855
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_480
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 855
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_481
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 855
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_482
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 855
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_483
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 855
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_484
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 856
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_485
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 857
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_486
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 858
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_487
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 856
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_488
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 858
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_489
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 858
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_490
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 773
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_491
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 773
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_492
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 776
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_493
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 776
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_494
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 776
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_495
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 776
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_496
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 776
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_497
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 776
+        width: 97
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_498
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 776
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_499
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 702
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_500
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 702
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_501
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 733
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_502
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 702
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_503
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 732
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_504
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 702
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_505
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 734
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_506
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 702
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_507
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 702
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_508
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 643
+        width: 458
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_509
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 438
+        width: 261
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_510
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 438
+        width: 263
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_511
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 484
+        width: 263
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_512
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 413
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_513
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 398
+        width: 145
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_514
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 321
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_515
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 321
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_516
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 321
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_517
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 321
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_518
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 321
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_519
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 321
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_520
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 321
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_521
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 321
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_522
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 321
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_523
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 321
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_524
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 321
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_525
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 321
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_526
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 321
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_527
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 321
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_528
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 321
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_529
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 321
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_530
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 321
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_531
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 267
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_532
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 245
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_533
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 242
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_534
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 160
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_535
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_536
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 160
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_537
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_538
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 160
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_539
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 160
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_540
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 160
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_541
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 160
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_542
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 160
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_543
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 160
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_544
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 160
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_545
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 160
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_546
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 160
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_547
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 160
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_548
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 160
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_549
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 160
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_550
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 160
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_551
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 160
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_552
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 160
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_553
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 160
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_554
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 160
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_555
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 160
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kakashi_556
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 29
+        width: 315
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
