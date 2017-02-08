@@ -3,7 +3,7 @@ using System.Collections;
 
 public class SealClick : MonoBehaviour {
 
-	public int sealNumber;
+	public string sealCode;
 
 	void OnClick() {
 		Debug.Log ("CLICK");
@@ -13,9 +13,8 @@ public class SealClick : MonoBehaviour {
 		Debug.Log ("mousedown");
 	}
 
-	public int getSealNumber() {
-		Debug.Log ("DOWN" + sealNumber);
-		return sealNumber;
+	public string getSealCode() {
+		return sealCode;
 	}
 		
 }

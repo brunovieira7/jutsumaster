@@ -6,10 +6,12 @@ public class GameManager : MonoBehaviour {
 
 	public GameObject[] seals;
 	public Player player;
+	private string currentCast;
 
 	// Use this for initialization
 	void Start () {
 		shuffleSeals ();
+		currentCast = "";
 	}
 
 	// Update is called once per frame
@@ -34,11 +36,16 @@ public class GameManager : MonoBehaviour {
 	     var hit = Physics2D.OverlapPoint(touchPos);
 	     
 	     if(hit){
-			int sealNum = hit.GetComponent<SealClick> ().getSealNumber ();
-			Debug.Log(hit.transform.gameObject.name);
-			Debug.Log ("DOWNZZZ" + sealNum);
+			string sealCode = hit.GetComponent<SealClick> ().getSealCode ();
+			player.GetComponent<Player> ().castSeal ();
 
-			player.GetComponent<Player> ().CastSeal ();
+			Debug.Log ("got code " + sealCode);
+			currentCast = currentCast + sealCode;
+			player.GetComponent<Player> ().isCastSuccessful (currentCast);
+			//Debug.Log(hit.transform.gameObject.name);
+			//Debug.Log ("DOWNZZZ" + sealNum);
+
+
 	     }
 	 }
 

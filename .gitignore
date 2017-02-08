@@ -3,3 +3,7 @@ Library/metadata/*
 Library/*
 Library/ScriptAssemblies/*
 Library
+Temp/*
+Temp
+obj/*
+obj
