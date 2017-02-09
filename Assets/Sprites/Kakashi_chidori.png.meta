@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 9749bdc3ae469884f9192ada5078c80e
-timeCreated: 1486517196
+timeCreated: 1486659899
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -182,10 +182,10 @@ TextureImporter:
       name: Kakashi_chidori_7
       rect:
         serializedVersion: 2
-        x: 573
-        y: 162
-        width: 91
-        height: 47
+        x: 575
+        y: 161
+        width: 90
+        height: 48
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,9 +196,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 688
-        y: 163
-        width: 91
-        height: 46
+        y: 161
+        width: 92
+        height: 48
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,9 +209,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 804
-        y: 163
-        width: 46
-        height: 46
+        y: 161
+        width: 52
+        height: 48
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,9 +222,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 875
-        y: 163
-        width: 46
-        height: 46
+        y: 161
+        width: 52
+        height: 48
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,9 +261,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 201
-        y: 82
+        y: 80
         width: 86
-        height: 53
+        height: 55
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,10 +273,10 @@ TextureImporter:
       name: Kakashi_chidori_17
       rect:
         serializedVersion: 2
-        x: 300
-        y: 82
-        width: 79
-        height: 59
+        x: 295
+        y: 80
+        width: 85
+        height: 61
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +286,10 @@ TextureImporter:
       name: Kakashi_chidori_19
       rect:
         serializedVersion: 2
-        x: 393
-        y: 81
-        width: 81
-        height: 55
+        x: 389
+        y: 80
+        width: 85
+        height: 56
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,10 +299,10 @@ TextureImporter:
       name: Kakashi_chidori_21
       rect:
         serializedVersion: 2
-        x: 481
-        y: 82
-        width: 83
-        height: 61
+        x: 475
+        y: 80
+        width: 89
+        height: 63
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,9 +313,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 580
-        y: 82
-        width: 92
-        height: 58
+        y: 80
+        width: 99
+        height: 60
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,9 +326,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 688
-        y: 82
-        width: 90
-        height: 61
+        y: 80
+        width: 94
+        height: 63
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: Kakashi_chidori_24
       rect:
         serializedVersion: 2
-        x: 796
-        y: 82
-        width: 72
-        height: 57
+        x: 781
+        y: 80
+        width: 87
+        height: 59
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,9 +352,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 7
-        y: 7
-        width: 88
-        height: 58
+        y: 5
+        width: 90
+        height: 60
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,10 +364,10 @@ TextureImporter:
       name: Kakashi_chidori_27
       rect:
         serializedVersion: 2
-        x: 127
-        y: 7
-        width: 72
-        height: 51
+        x: 110
+        y: 5
+        width: 89
+        height: 53
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -377,10 +377,10 @@ TextureImporter:
       name: Kakashi_chidori_28
       rect:
         serializedVersion: 2
-        x: 238
-        y: 7
-        width: 70
-        height: 51
+        x: 221
+        y: 5
+        width: 89
+        height: 53
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,9 +391,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 340
-        y: 7
-        width: 88
-        height: 51
+        y: 5
+        width: 92
+        height: 53
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,10 +403,10 @@ TextureImporter:
       name: Kakashi_chidori_31
       rect:
         serializedVersion: 2
-        x: 451
-        y: 7
-        width: 70
-        height: 51
+        x: 437
+        y: 5
+        width: 84
+        height: 53
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

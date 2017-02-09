@@ -53,8 +53,10 @@ public class GameManager : MonoBehaviour {
 
 		GameObject[] sealClone = (GameObject[])seals.Clone ();
 
-		int y = 0;
+		float y = 1.1f;
 		int x = -2;
+
+
 		for (int i = 0; i < seals.Length; i++) {
 			GameObject instance = getRandomSeal (sealClone);
 
@@ -62,11 +64,13 @@ public class GameManager : MonoBehaviour {
 			list.Remove (instance);
 			sealClone = list.ToArray ();
 
+			float xOffset = (float) ((i % 4) * 0.3);
+
 			if (i % 4 == 0) {
-				y--;
+				y -= 1.7f;
 				x = -2;
 			}
-			instance = Instantiate (instance, new Vector3(x,y,0), Quaternion.identity) as GameObject;
+			instance = Instantiate (instance, new Vector3(x + xOffset,y,0), Quaternion.identity) as GameObject;
 			x++;
 		}
 
