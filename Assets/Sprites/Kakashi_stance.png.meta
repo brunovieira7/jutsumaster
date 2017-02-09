@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 369acd04d52aee948871dde8ad5c5d78
-timeCreated: 1486248453
+timeCreated: 1486517017
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -64,10 +64,10 @@ TextureImporter:
         serializedVersion: 2
         x: 4
         y: 1
-        width: 42
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -77,10 +77,10 @@ TextureImporter:
         serializedVersion: 2
         x: 55
         y: 1
-        width: 44
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -90,10 +90,10 @@ TextureImporter:
         serializedVersion: 2
         x: 105
         y: 1
-        width: 40
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 38
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -103,10 +103,10 @@ TextureImporter:
         serializedVersion: 2
         x: 150
         y: 1
-        width: 42
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -116,10 +116,10 @@ TextureImporter:
         serializedVersion: 2
         x: 199
         y: 1
-        width: 39
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 38
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -129,10 +129,10 @@ TextureImporter:
         serializedVersion: 2
         x: 245
         y: 1
-        width: 41
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

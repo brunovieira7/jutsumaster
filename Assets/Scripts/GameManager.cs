@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour {
 
 			Debug.Log ("got code " + sealCode);
 			currentCast = currentCast + sealCode;
-			player.GetComponent<Player> ().isCastSuccessful (currentCast);
+			bool success = player.GetComponent<Player> ().isCastSuccessful (currentCast);
 			//Debug.Log(hit.transform.gameObject.name);
 			//Debug.Log ("DOWNZZZ" + sealNum);
 

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 2d6b6b459f4fcb94b925d4ffc397f016
-timeCreated: 1486248610
+timeCreated: 1486516998
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -61,10 +61,10 @@ TextureImporter:
         serializedVersion: 2
         x: 2
         y: 1
-        width: 37
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -74,10 +74,10 @@ TextureImporter:
         serializedVersion: 2
         x: 46
         y: 1
-        width: 44
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 43
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -87,10 +87,10 @@ TextureImporter:
         serializedVersion: 2
         x: 98
         y: 1
-        width: 39
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

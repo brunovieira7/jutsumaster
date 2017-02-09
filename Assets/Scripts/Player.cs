@@ -28,6 +28,7 @@ public class Player : MonoBehaviour {
 			Debug.Log ("jutsucode: " + jutsu.getSealcode () + " curr:" + currentCast);			
 			if (jutsu.match (currentCast)) {
 				SoundManager.instance.PlaySingle (sealComplete);
+				animator.SetTrigger (jutsu.getTrigger() );
 			}
 		}
 		return true;
