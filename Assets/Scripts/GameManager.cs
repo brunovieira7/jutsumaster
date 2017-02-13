@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -8,6 +9,12 @@ public class GameManager : MonoBehaviour {
 	public Player player;
 	private string currentCast;
 
+	public Image timeBar;
+	private float maxCastTime = 5f;
+	private float elapsedTime = 0f;
+
+	private bool castStage = true;
+
 	// Use this for initialization
 	void Start () {
 		shuffleSeals ();
@@ -16,6 +23,7 @@ public class GameManager : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+		updateBars ();
 		if(Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer){
 	         if(Input.touchCount > 0) {
 	             if(Input.GetTouch(0).phase == TouchPhase.Began){
@@ -28,6 +36,28 @@ public class GameManager : MonoBehaviour {
 	             checkTouch(Input.mousePosition);
 	         }
 	     }
+	}
+
+	void updateBars() {
+		if (!castStage) {
+			return;
+		}
+
+		elapsedTime += Time.deltaTime;
+
+		RectTransform rect = timeBar.GetComponent<RectTransform> ();
+
+		float newScale = (float) elapsedTime / maxCastTime;
+
+		Vector3 currScale = rect.localScale;
+		currScale.x = newScale;
+
+		rect.localScale = currScale;
+
+		if (elapsedTime >= maxCastTime) {
+			castStage = false;
+			elapsedTime = 0f;
+		}
 	}
 
 	private void checkTouch(Vector3 pos){
