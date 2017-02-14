@@ -7,13 +7,16 @@ public class GameManager : MonoBehaviour {
 
 	public GameObject[] seals;
 	public Player player;
+	public Enemy enemy;
 	private string currentCast;
 
 	public Image timeBar;
 	private float maxCastTime = 5f;
 	private float elapsedTime = 0f;
 
-	private bool castStage = true;
+	private bool jutsuStage = true;
+	private Jutsu castingJutsu;
+	private float castingJutsuTimer = 0f;
 
 	// Use this for initialization
 	void Start () {
@@ -23,23 +26,35 @@ public class GameManager : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+
 		updateBars ();
-		if(Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer){
-	         if(Input.touchCount > 0) {
-	             if(Input.GetTouch(0).phase == TouchPhase.Began){
-	                 checkTouch(Input.GetTouch(0).position);
-	             }
-	         }
+
+		if (jutsuStage) {
+			if (Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer) {
+				if (Input.touchCount > 0) {
+					if (Input.GetTouch (0).phase == TouchPhase.Began) {
+						checkTouch (Input.GetTouch (0).position);
+					}
+				}
+			} else if (Application.platform == RuntimePlatform.WindowsEditor) {
+				if (Input.GetMouseButtonDown (0)) {
+					checkTouch (Input.mousePosition);
+				}
+			}
 		}
-		else if(Application.platform == RuntimePlatform.WindowsEditor){
-	         if(Input.GetMouseButtonDown(0)) {
-	             checkTouch(Input.mousePosition);
-	         }
-	     }
+
+		if (castingJutsu != null) {
+			castingJutsuTimer += Time.deltaTime;
+			if (castingJutsuTimer >= castingJutsu.getActiveTimer ()) {
+				var script = enemy.GetComponent<Enemy> ();
+				script.takeDamage ();
+				castingJutsu = null;
+			}
+		}
 	}
 
 	void updateBars() {
-		if (!castStage) {
+		if (!jutsuStage) {
 			return;
 		}
 
@@ -55,7 +70,7 @@ public class GameManager : MonoBehaviour {
 		rect.localScale = currScale;
 
 		if (elapsedTime >= maxCastTime) {
-			castStage = false;
+			jutsuStage = false;
 			elapsedTime = 0f;
 		}
 	}
@@ -65,13 +80,18 @@ public class GameManager : MonoBehaviour {
 		Vector2 touchPos = new Vector2(wp.x, wp.y);
 	     var hit = Physics2D.OverlapPoint(touchPos);
 	     
-	     if(hit){
+	     if (hit) {
 			string sealCode = hit.GetComponent<SealClick> ().getSealCode ();
 			player.GetComponent<Player> ().castSeal ();
 
 			Debug.Log ("got code " + sealCode);
 			currentCast = currentCast + sealCode;
-			bool success = player.GetComponent<Player> ().isCastSuccessful (currentCast);
+			Jutsu jutsu = player.GetComponent<Player> ().isCastSuccessful (currentCast);
+			if (jutsu != null) {
+				jutsuStage = false;
+				castingJutsu = jutsu;
+				//jutsu.playSound ();
+			}
 			//Debug.Log(hit.transform.gameObject.name);
 			//Debug.Log ("DOWNZZZ" + sealNum);
 
