@@ -26,7 +26,7 @@ public class Player : MonoBehaviour {
 
 	public Jutsu isCastSuccessful(string currentCast) {
 		foreach (Jutsu jutsu in jutsus) {
-			Debug.Log ("jutsucode: " + jutsu.getSealcode () + " curr:" + currentCast);			
+			//Debug.Log ("jutsucode: " + jutsu.getSealcode () + " curr:" + currentCast);			
 			if (jutsu.match (currentCast)) {
 				SoundManager.instance.PlaySingle (sealComplete);
 				animator.SetTrigger (jutsu.getTrigger() );

@@ -2,6 +2,7 @@
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Networking;
 
 public class GameManager : MonoBehaviour {
 
@@ -11,7 +12,7 @@ public class GameManager : MonoBehaviour {
 	private string currentCast;
 
 	public Image timeBar;
-	private float maxCastTime = 5f;
+	public float maxCastTime;
 	private float elapsedTime = 0f;
 
 	private bool jutsuStage = true;
@@ -46,9 +47,32 @@ public class GameManager : MonoBehaviour {
 		if (castingJutsu != null) {
 			castingJutsuTimer += Time.deltaTime;
 			if (castingJutsuTimer >= castingJutsu.getActiveTimer ()) {
-				var script = enemy.GetComponent<Enemy> ();
-				script.takeDamage ();
+				Enemy enemyScript = enemy.GetComponent<Enemy> ();
+				enemyScript.takeDamage ();
 				castingJutsu = null;
+
+				StartCoroutine(GetText());
+			}
+		}
+	}
+
+	IEnumerator GetText()
+	{
+		using (UnityWebRequest www = UnityWebRequest.Get("http://localhost:8080/timer/1"))
+		{
+			yield return www.Send();
+
+			if (www.isError)
+			{
+				Debug.Log(www.error);
+			}
+			else
+			{
+				// Show results as text
+				Debug.Log(www.downloadHandler.text);
+
+				// Or retrieve results as binary data
+				byte[] results = www.downloadHandler.data;
 			}
 		}
 	}
@@ -84,7 +108,7 @@ public class GameManager : MonoBehaviour {
 			string sealCode = hit.GetComponent<SealClick> ().getSealCode ();
 			player.GetComponent<Player> ().castSeal ();
 
-			Debug.Log ("got code " + sealCode);
+			//Debug.Log ("got code " + sealCode);
 			currentCast = currentCast + sealCode;
 			Jutsu jutsu = player.GetComponent<Player> ().isCastSuccessful (currentCast);
 			if (jutsu != null) {
