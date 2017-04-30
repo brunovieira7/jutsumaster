@@ -19,6 +19,9 @@ public class GameManager : MonoBehaviour {
 	private Jutsu castingJutsu;
 	private float castingJutsuTimer = 0f;
 
+	public Text recordText;
+	public List<GameObject> instanceSeals;
+
 	// Use this for initialization
 	void Start () {
 		shuffleSeals ();
@@ -51,9 +54,19 @@ public class GameManager : MonoBehaviour {
 				enemyScript.takeDamage ();
 				castingJutsu = null;
 
+				restartRound ();
 				StartCoroutine(GetText());
 			}
 		}
+	}
+
+	void restartRound() {
+		destroySeals ();
+		shuffleSeals ();
+		elapsedTime = 0f;
+		jutsuStage = true;
+		castingJutsuTimer = 0f;
+		currentCast = "";
 	}
 
 	IEnumerator GetText()
@@ -64,7 +77,7 @@ public class GameManager : MonoBehaviour {
 
 			if (www.isError)
 			{
-				Debug.Log(www.error);
+				Debug.Log(www.error + " " + www.responseCode);
 			}
 			else
 			{
@@ -115,6 +128,14 @@ public class GameManager : MonoBehaviour {
 				jutsuStage = false;
 				castingJutsu = jutsu;
 				//jutsu.playSound ();
+
+				if (jutsu.newBestTime (elapsedTime)) {
+					recordText.text = "New  Best  Time:  " + System.Math.Round (elapsedTime, 2);
+					recordText.enabled = true;
+				} 
+				else {
+					recordText.enabled = false;
+				}
 			}
 			//Debug.Log(hit.transform.gameObject.name);
 			//Debug.Log ("DOWNZZZ" + sealNum);
@@ -123,8 +144,14 @@ public class GameManager : MonoBehaviour {
 	     }
 	 }
 
-	void shuffleSeals() {
+	void destroySeals() { 
+		foreach (GameObject go in instanceSeals) {
+			Destroy (go);
+		}
+	}
 
+	void shuffleSeals() {
+		instanceSeals = new List<GameObject> ();
 		GameObject[] sealClone = (GameObject[])seals.Clone ();
 
 		float y = 1.1f;
@@ -145,6 +172,7 @@ public class GameManager : MonoBehaviour {
 				x = -2;
 			}
 			instance = Instantiate (instance, new Vector3(x + xOffset,y,0), Quaternion.identity) as GameObject;
+			instanceSeals.Add (instance);
 			x++;
 		}
 

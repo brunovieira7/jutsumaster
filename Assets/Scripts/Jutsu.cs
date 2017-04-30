@@ -5,13 +5,18 @@ public class Jutsu {
 
 	enum JutsuType { DMG, BUFF }
 
+	private int id;
 	private string sealCode;
 	private string trigger;
 	private JutsuType type;
+	private float recordTimer = 100f;
 
 	private float activeTimer;
 
-	public Jutsu (string sealCode, string trigger, float activeTimer) { 
+	public Jutsu (int id, string sealCode, string trigger, float activeTimer) {
+		getRecordTimer ();
+
+		this.id = id;
 		this.sealCode = sealCode;
 		this.trigger = trigger;
 		this.activeTimer = activeTimer;
@@ -34,6 +39,20 @@ public class Jutsu {
 
 	public float getActiveTimer() {
 		return activeTimer;
+	}
+
+	public float getRecordTimer() {
+		// call API
+
+		return recordTimer;
+	}
+
+	public bool newBestTime(float newTimer) {
+		if (newTimer < recordTimer) {
+			recordTimer = newTimer;
+			return true;
+		}
+		return false;
 	}
 
 	public void playSound() {

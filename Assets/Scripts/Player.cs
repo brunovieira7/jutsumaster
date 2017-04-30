@@ -12,7 +12,7 @@ public class Player : MonoBehaviour {
 	void Start () {
 		animator = GetComponent<Animator>();
 		jutsus = new Jutsu[1];
-		jutsus [0] = new Jutsu ("HoHoHo","Chidori",2f);
+		jutsus [0] = new Jutsu (1, "HoHoHo","Chidori",2f);
 	}
 	
 	void Update () {
