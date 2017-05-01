@@ -3,13 +3,18 @@ using System.Collections;
 
 public class StartManager : MonoBehaviour {
 
+	public GameObject apiInfo;
+
 	// Use this for initialization
 	void Start () {
-	
+		
 	}
 	
 	// Update is called once per frame
 	void Update () {
+		if (!apiInfo.GetComponent<ApiInfo> ().canStartgame ())
+			return;
+
 		if (Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer) {
 			if (Input.touchCount > 0) {
 				if (Input.GetTouch (0).phase == TouchPhase.Began) {

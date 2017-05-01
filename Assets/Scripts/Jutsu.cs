@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
+using UnityEngine.Networking;
 
 public class Jutsu {
 
@@ -14,7 +16,7 @@ public class Jutsu {
 	private float activeTimer;
 
 	public Jutsu (int id, string sealCode, string trigger, float activeTimer) {
-		getRecordTimer ();
+		setRecordTimer ();
 
 		this.id = id;
 		this.sealCode = sealCode;
@@ -41,15 +43,15 @@ public class Jutsu {
 		return activeTimer;
 	}
 
-	public float getRecordTimer() {
-		// call API
-
-		return recordTimer;
+	public void setRecordTimer() {
+		GameObject apiInfo = GameObject.Find ("ApiInfo");
+		recordTimer = apiInfo.GetComponent<ApiInfo> ().getJutsuTime ();
 	}
 
 	public bool newBestTime(float newTimer) {
 		if (newTimer < recordTimer) {
 			recordTimer = newTimer;
+			TaskOnClick (newTimer);
 			return true;
 		}
 		return false;
@@ -58,5 +60,20 @@ public class Jutsu {
 	public void playSound() {
 		AudioClip audio = Resources.Load("chidori") as AudioClip;
 		SoundManager.instance.PlaySingle (audio);
+	}
+		
+	private void TaskOnClick(float newTimer) {
+		try	{
+			string ourPostData = "{\"id\":"+ id +", \"time\": " + newTimer + " }";
+			Dictionary<string,string> headers = new Dictionary<string, string>();
+			headers.Add("Content-Type", "application/json");
+
+			byte[] pData = System.Text.Encoding.ASCII.GetBytes(ourPostData.ToCharArray());
+
+			WWW api = new WWW("http://localhost:8080/timer", pData, headers);
+			//WaitForWWW(api);
+		}
+			catch (UnityException ex) { Debug.Log(ex.Message);
+		}
 	}
 }

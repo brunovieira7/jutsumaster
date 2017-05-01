@@ -55,7 +55,6 @@ public class GameManager : MonoBehaviour {
 				castingJutsu = null;
 
 				restartRound ();
-				StartCoroutine(GetText());
 			}
 		}
 	}
@@ -67,27 +66,6 @@ public class GameManager : MonoBehaviour {
 		jutsuStage = true;
 		castingJutsuTimer = 0f;
 		currentCast = "";
-	}
-
-	IEnumerator GetText()
-	{
-		using (UnityWebRequest www = UnityWebRequest.Get("http://localhost:8080/timer/1"))
-		{
-			yield return www.Send();
-
-			if (www.isError)
-			{
-				Debug.Log(www.error + " " + www.responseCode);
-			}
-			else
-			{
-				// Show results as text
-				Debug.Log(www.downloadHandler.text);
-
-				// Or retrieve results as binary data
-				byte[] results = www.downloadHandler.data;
-			}
-		}
 	}
 
 	void updateBars() {
