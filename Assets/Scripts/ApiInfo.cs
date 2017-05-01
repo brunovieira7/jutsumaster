@@ -15,7 +15,7 @@ public class ApiInfo : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		startGame.enabled = false;
-		StartCoroutine(GetText());
+		StartCoroutine(GetJutsuTimer());
 
 		DontDestroyOnLoad (this);
 	}
@@ -25,7 +25,7 @@ public class ApiInfo : MonoBehaviour {
 	
 	}
 
-	IEnumerator GetText()
+	IEnumerator GetJutsuTimer()
 	{
 		using (UnityWebRequest www = UnityWebRequest.Get("http://localhost:8080/timer/1"))
 		{
@@ -34,6 +34,8 @@ public class ApiInfo : MonoBehaviour {
 			if (www.isError)
 			{
 				Debug.Log(www.error + " " + www.responseCode);
+				startGame.text = "Cant connect to API server";
+				startGame.enabled = true;
 			}
 			else
 			{

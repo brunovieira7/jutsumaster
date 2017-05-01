@@ -67,7 +67,7 @@ public class GameManager : MonoBehaviour {
 		castingJutsuTimer = 0f;
 		currentCast = "";
 	}
-
+		
 	void updateBars() {
 		if (!jutsuStage) {
 			return;
